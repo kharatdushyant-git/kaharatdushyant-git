@@ -4,32 +4,6 @@
 
 | Competitive PROgramming Journey | Building Projects | Every Day | Always Learning 🚀 |
 
-</div>
-
----
-
-# 💫 About Me
-
-```console
-Dushyant@github: ~$
-
-> Java Backend Developer
-> Spring Boot Enthusiast
-> Competitive Programmer
-> System Programming Explorer
-
-Status : BUILDING • LEARNING • IMPROVING 🚀
-```
-
-- 🎓 Computer Engineering Student
-- ☕ Passionate about Backend Development
-- ⚙️ Exploring Operating Systems & Linux
-- 🧩 Solving Data Structures & Algorithms
-- 🏆 Learning Competitive Programming
-- 🚀 Building Industry-Level Projects
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
